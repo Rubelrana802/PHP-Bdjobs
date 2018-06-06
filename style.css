@@ -1,0 +1,252 @@
+*{margin: 0px; padding: 0; outline: 0}
+body{
+	font-size: 14px; font-family: arial; line-height: 18px; color: #333; background:  #ece9d8;
+}
+.tempalte{
+	width: 960px; margin: 0 auto;
+}
+.clear{
+	overflow: hidden;
+}
+.headersection{
+	background: #333333; height: 80px;
+	margin-left: 195px;
+    margin-right: 195px;
+
+}
+
+.header{
+
+
+}
+
+.hleft{
+	width: 400px; color: #fff; float: left;
+}
+
+.hleft h2 {
+    font-size: 31px;
+    line-height: 79px;
+    padding-left: 42px;
+}
+
+.hright{ width: 400px; float: right; color: #fff;}
+
+.hright a {
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 85px;
+    color: #fff;
+    font-weight: bold;
+
+}
+
+.hright a:hover, #active{
+	color: #00adef;
+}
+
+.mainsection{
+	background: #fff;
+}
+
+.slogsection{}
+
+.slogsection h2{
+    font-size: 29px;
+    margin-top: 31px;
+    margin-left: 59px;
+}
+.andcolor{
+	color: #00adef;
+}
+
+.hrline{
+	margin-top: 40px;
+    margin-right: 59px;
+    margin-left: 57px;
+    margin-bottom: 40px;
+}
+.slogsection h3{
+    font-size: 24px;
+    margin-top: 13px;
+    color: #CECDCE;
+    margin-left: 59px;
+}
+
+.description{}
+
+.description p{
+	margin-top: 30px;
+    margin-left: 58px;
+    margin-right: 44px;
+    font-size: 26px;
+    line-height: 32px;
+}
+
+.contentsection{
+	margin-bottom: 20px;
+	padding-bottom: 20px
+}
+
+.services{
+	background: #00adef;
+    width: 243px;
+    margin-left: 57px;
+    float: left;
+    height: 250px;
+    box-shadow: 5px 5px 0 0 #cfcfcf;
+}
+
+.services h2 {
+    margin-top: 11px;
+    text-align: center;
+    margin-bottom: 9px;
+    color: #fff;
+
+}
+
+.hline{
+	margin-top: 13px;
+    margin-right: 20px;
+    margin-bottom: 13px;
+    margin-left: 20px;
+}
+
+.services p{
+	margin-top: 13px;
+    margin-right: 20px;
+    margin-bottom: 13px;
+    margin-left: 20px;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+}
+
+.redmore{
+	background: #0076a4 none repeat scroll 0 0;
+	text-align: center;
+    margin-right: 20px;
+    margin-left: 20px;
+    
+}
+
+.redmore a{
+	text-transform: uppercase;
+    font-size: 16px;
+    text-decoration: none;
+    color: #fff;
+
+}
+
+.redmore a:hover{
+	color: #111111;
+	background: #fff;
+
+}
+
+.mainbottum{
+	border-bottom: 2px dotted #cccccc;
+	border-top: 2px dotted #cccccc;
+	margin: 30px 50px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}	
+
+.clientsection{
+	border-right: 2px dotted #cccccc;
+	width: 398px;
+	float: left;
+	margin-right: 30px;
+	padding-right: 30px;
+}
+
+.clientsection h2{
+	color: #666;
+	font-size: 25px;
+	line-height: 30px;
+	margin-bottom: 20px;
+}
+
+.testimonial{}
+
+.clientimage{
+	float: left;
+	margin-right: 20px;
+	width: 60px;
+
+}
+
+.clientimage img{
+    width: 73px;
+    margin-bottom: 25px;
+}
+
+.clientdesc{
+	float: right;
+	width: 318px;
+}
+
+.clientdesc p{
+	font-size: 15px;
+    line-height: 18px;
+    color: #666;
+}
+
+.clientdesc a{
+	color: #00adef;
+	text-decoration: none;
+}
+
+.clientname {
+	font-weight: bold;
+	margin-top: 7px;
+}
+
+.projesection{
+	width: 400px;
+	float: right;
+}
+
+.projesection h2{
+	color: #666;
+	font-size: 25px;
+	line-height: 30px;
+	margin-bottom: 20px;
+}
+
+.projesection h3{
+	color: #999;
+    margin-bottom: 12px;
+    margin-top: -15px;
+}
+
+.projesection img{
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	height: 199px;
+	width: 375px;
+
+}
+.projesection p {
+    font-size: 15px;
+    line-height: 16px;
+    color: #999;
+}
+
+.projesection a{ 
+	text-decoration: none;
+    color: #00adef;
+    margin-top: 10px;
+    font-size: 17px;
+    line-height: 32px;
+}
+
+.footersection{
+	background: #fff ;
+}
+
+.footersection p{
+	color: #999;
+	margin-bottom: 20px;
+	margin-left: 50px;
+}
